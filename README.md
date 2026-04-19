@@ -25,7 +25,7 @@
 
 ### 🌟推荐便宜 VPS 方案：
 
-* **\$15/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/492/create?ref=2616&token=xmas-25-ssd-vps-1)
+* **\$15/年高配方案**：[点我直达 CloudCone](https://app.cloudcone.com/vps/501/create?ref=2616&oken=hashtag-26-ssd-vps-2)
 
 > 备注：sc2 有可能存在无限流量 Bug。建议使用 Cloudflare 中转，如 IP 被墙。
 
